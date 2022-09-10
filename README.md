@@ -7,8 +7,7 @@ Group -
 Kevin Rodriguez
 Perry Backman
 
-Assignment -
-: Work as a team using version control to create a website for a hypothetical lawfirm following the provided design template (shown below).
+**Assignment:** Work as a team using version control to create a website for a hypothetical lawfirm following the provided design template (shown below).
 
 <br>
 
