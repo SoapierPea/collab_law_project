@@ -2,8 +2,8 @@
 
 ##### *Website for a law firm (group project)*
 
-Group -
-: Jared Monaco
+**Group:**
+Jared Monaco
 Kevin Rodriguez
 Perry Backman
 
