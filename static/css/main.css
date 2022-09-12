@@ -1,5 +1,6 @@
 
 /*begin nav content*/
+
 .website-content{
     border: 1px solid;
     max-width: 100%;
@@ -54,6 +55,109 @@ nav{
     color: black;
     font-weight: 600;
     text-decoration: none;
+}
+
+.middle-content{
+    display: flex;
+}
+.left-column-container{
+    border: 0.5px solid;
+    border-color: rgb(134,48,48);
+    background-color: rgb(134, 48, 48);
+    width: 300px;
+    align-items: flex-end;
+    padding: 10px 0 30px 25px;
+    margin:20px 0 60px 40px ;
+
+}
+.box-1 > h4{
+    color: white;
+    border-bottom: 2px solid;
+    width: 260px;
+    margin-right: 50px;
+    font-weight: 400;
+}
+
+.box-1>h5{
+    color: white;
+}
+.box-1> ul{
+    list-style: none;
+    color: white;
+}
+.box-2>h5{
+    color: white;
+}
+.box-2> ul{
+    list-style: none;
+    color: white;
+}
+.box-3>h5{
+    color: white;
+}
+.box-3> ul{
+    list-style: none;
+    color: white;
+}
+.box-4>h5{
+    color: white;
+}
+.box-4> ul{
+    list-style: none;
+    color: white;
+}
+.column-img{
+    align-items: center;
+
+}
+.column-img > img{
+    width:240px;
+    border:2px solid;
+    border-color: white;
+    
+}
+.column-img >h5{
+    color: white;
+}
+.column-img> p{
+    color: white;
+}
+
+.center-box{
+    margin: 20px 30px 10px 30px;
+    max-width: 100%;
+    height: auto;
+}
+
+.text-box{
+    display: flex;
+    justify-content: stretch;
+}
+.img-boxes{
+    max-width: 100%;
+    display: flex;
+    justify-content: stretch;
+    gap: 30px;
+    
+}
+.img-box{
+    border: 2px solid;
+    padding: 6px 8px 6px 8px;
+    margin-bottom: 15px;
+}
+.img-box >img{
+
+    width: 670px;
+    height:200px;
+    padding: 5px 5px 5px 5px;
+    border: 1px solid;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
 }
 
 /*begin footer content*/
